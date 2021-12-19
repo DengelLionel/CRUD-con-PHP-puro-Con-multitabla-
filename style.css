@@ -1,0 +1,51 @@
+.container{
+    max-width:500px;
+}
+.agregando{
+    display: none;
+}
+.agregarnuevo{
+    display: block;
+}
+.agregando2{
+    display: none;
+}
+.agregandoProfe{
+    display: none;
+}
+.agregandoProfe2{
+    display: none;
+}
+.agregandoProfeVisto{
+    display: block;
+}
+.mostrardatos{
+    display: none;
+}
+.mostrardatosVisto{
+    display:block;
+}
+.mostrarestudiante{
+    display: none;
+}
+.mostrarestudiante2{
+    display: block;
+}
+.mostrarprofesor{
+    display: none;
+}
+.nomostrarprofesor{
+    display: none;
+}
+.mostrarprofesor2{
+    display: block;
+}
+.mostrarcursoestudiante{
+    display: none;
+}
+.mostrarcursoestudiante2{
+    display: block;
+}
+.cerrar{
+    margin-top: 200px;
+}
